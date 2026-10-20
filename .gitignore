@@ -1,0 +1,27 @@
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment and sensitive keys
+.env
+.streamlit/secrets.toml
+
+# Local databases and runtime configuration
+*.db
+analytics.db
+database/interview.db
+
+
+# Byte-compiled / Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+.streamlit/secrets.toml

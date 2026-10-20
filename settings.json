@@ -1,0 +1,14 @@
+{
+  "default_role": "Python Developer",
+  "default_difficulty": "Medium",
+  "default_question_count": 5,
+  "enable_question_timer": false,
+  "groq_model": "openai/gpt-oss-120b",
+  "custom_roles": [
+    "Cloud Architect"
+  ],
+  "whisper_model": "whisper-large-v3-turbo",
+  "enable_voice_answers": true,
+  "default_voice_mode": "Append",
+  "app_theme": "Dark"
+}
